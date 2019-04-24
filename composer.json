@@ -1,5 +1,5 @@
 {
-    "name": "alfonsobries/nova-trumbowyg",
+    "name": "globalsprojects/nova-trumbowyg",
     "description": "A Laravel Trumbowyg Nova field.",
     "keywords": [
         "laravel",
@@ -12,13 +12,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Alfonsobries\\NovaTrumbowyg\\": "src/"
+            "GlobalsProjects\\NovaTrumbowyg\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Alfonsobries\\NovaTrumbowyg\\FieldServiceProvider"
+                "GlobalsProjects\\NovaTrumbowyg\\FieldServiceProvider"
             ]
         }
     },

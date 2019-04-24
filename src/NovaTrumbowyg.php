@@ -1,6 +1,6 @@
 <?php
 
-namespace Alfonsobries\NovaTrumbowyg;
+namespace GlobalsProjects\NovaTrumbowyg;
 
 use Laravel\Nova\Fields\Field;
 

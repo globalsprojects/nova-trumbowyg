@@ -1,12 +1,14 @@
 # Nova Trumbowyg editor field
 Laravel Nova Trumbowyg Editor field.
 
+## 	:bangbang: This is a fork from this [package](https://github.com/alfonsobries/nova-trumbowyg).
+
 ## Installation
 
 Just install the package in to a Laravel app that uses Nova via composer:
 
 ```
-composer require alfonsobries/nova-trumbowyg
+composer require globalsprojects/nova-trumbowyg
 ```
 
 
